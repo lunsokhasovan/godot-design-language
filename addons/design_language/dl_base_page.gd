@@ -3,4 +3,4 @@
 
 @tool
 class_name DLBasePage
-extends DesignLanguage
+extends Control
